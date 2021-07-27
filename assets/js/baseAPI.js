@@ -17,7 +17,7 @@ $.ajaxPrefilter(function (options) {
             //1强制清除token
             localStorage.removeItem('token');
             //2强制跳回到登录页面  只要不登录就无法进入主页
-            location.href = '/login.html';
+            //location.href = '/login.html';
         }
 
 
