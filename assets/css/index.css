@@ -1,0 +1,32 @@
+
+.layui-footer {
+    text-align:center;
+    font-size:12px;
+}
+.layui-side-scroll>ul>li>dl>dd{
+    margin-left: 20px;
+    margin-right: 8px;
+    font-size: 12px;
+}
+.layui-side-scroll>ul>li>dl>dd i {
+    margin-right: 8px;
+}
+iframe {
+    width: 100%;
+    height: 100%;
+}
+.layui-body {
+    overflow: hidden;
+} 
+a {
+    transition: none !important;
+}
+#welcome {
+    position: absolute;
+    top:22px;
+    left: -80px;
+    display: inline-block;
+}
+.layui-nav layui-layout-right {
+    position: relative;
+}
